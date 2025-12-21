@@ -23,3 +23,4 @@ Bonus spark: Add a tiny "Universe Activity Pulse" (a dot that glows when new cha
 
 The UX you're going for
 A smooth, reactive, slightly sci-fi dashboard where data flickers into place the moment it changes in the cloud, but the user always feels in control, whether time is flowing or frozen.
+
