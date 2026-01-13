@@ -1,4 +1,4 @@
-# NebulaVault — Your Live Multiverse Dashboard
+# NebulaVault — Your Live Multiverse Dashboard 
 
 ## You’re building NebulaVault, a quirky little dashboard that lets users manage three parallel universes of their choice—Artifacts, Creatures, and Logs—each represented as a tab in a React interface.
 
