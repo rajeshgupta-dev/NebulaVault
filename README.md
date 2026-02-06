@@ -1,6 +1,6 @@
 # NebulaVault — Your Live Multiverse Dashboard 
 
-## You’re building NebulaVault, a quirky little dashboard that lets users manage three parallel universes of their choice—Artifacts, Creatures, and Logs—each represented as a tab in a React interface.
+## You're building NebulaVault, a quirky little dashboard that lets users manage three parallel universes of their choice—Artifacts, Creatures, and Logs—each represented as a tab in a React interface.
 
 All universe data must live inside Firebase Realtime Database, and the UI should feel alive, fast, and slightly magical.
 
